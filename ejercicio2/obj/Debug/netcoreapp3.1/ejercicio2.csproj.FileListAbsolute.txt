@@ -1,0 +1,38 @@
+C:\Users\agarc\Downloads\base\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.exe
+C:\Users\agarc\Downloads\base\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.deps.json
+C:\Users\agarc\Downloads\base\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.runtimeconfig.json
+C:\Users\agarc\Downloads\base\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.runtimeconfig.dev.json
+C:\Users\agarc\Downloads\base\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.dll
+C:\Users\agarc\Downloads\base\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.pdb
+C:\Users\agarc\Downloads\base\ejercicio2\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\agarc\Downloads\base\ejercicio2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\agarc\Downloads\base\ejercicio2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\agarc\Downloads\base\ejercicio2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\agarc\Downloads\base\ejercicio2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\agarc\Downloads\base\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.csprojAssemblyReference.cache
+C:\Users\agarc\Downloads\base\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.AssemblyInfoInputs.cache
+C:\Users\agarc\Downloads\base\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.AssemblyInfo.cs
+C:\Users\agarc\Downloads\base\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\agarc\Downloads\base\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.csproj.CopyComplete
+C:\Users\agarc\Downloads\base\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.dll
+C:\Users\agarc\Downloads\base\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.pdb
+C:\Users\agarc\Downloads\base\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.genruntimeconfig.cache
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.exe
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.deps.json
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.runtimeconfig.json
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.runtimeconfig.dev.json
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.pdb
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio2\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.csprojAssemblyReference.cache
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.AssemblyInfoInputs.cache
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.AssemblyInfo.cs
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.csproj.CopyComplete
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.pdb
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.genruntimeconfig.cache

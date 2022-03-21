@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZYy9L/aYgehN2NMFE20Cge6plufZFypIepf7nmSKJxk4i7prAjs+8IabSXMpCxW5ki/Uh1gfsNVbNCu2YghrSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agarc\\Desktop\\DAM\\PROG\\Examen Programacion mayo 21 - AGC\\Examen Programacion mayo 21 - AGC\\ejercicio3\\ejercicio3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agarc\\.nuget\\packages\\atksharp\\3.24.24.34\\atksharp.3.24.24.34.nupkg.sha512",
+    "C:\\Users\\agarc\\.nuget\\packages\\cairosharp\\3.24.24.34\\cairosharp.3.24.24.34.nupkg.sha512",
+    "C:\\Users\\agarc\\.nuget\\packages\\gdksharp\\3.24.24.34\\gdksharp.3.24.24.34.nupkg.sha512",
+    "C:\\Users\\agarc\\.nuget\\packages\\giosharp\\3.24.24.34\\giosharp.3.24.24.34.nupkg.sha512",
+    "C:\\Users\\agarc\\.nuget\\packages\\glibsharp\\3.24.24.34\\glibsharp.3.24.24.34.nupkg.sha512",
+    "C:\\Users\\agarc\\.nuget\\packages\\gtksharp\\3.24.24.34\\gtksharp.3.24.24.34.nupkg.sha512",
+    "C:\\Users\\agarc\\.nuget\\packages\\pangosharp\\3.24.24.34\\pangosharp.3.24.24.34.nupkg.sha512",
+    "C:\\Users\\agarc\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.113.2\\stub.system.data.sqlite.core.netstandard.1.0.113.2.nupkg.sha512",
+    "C:\\Users\\agarc\\.nuget\\packages\\system.data.sqlite.core\\1.0.113.7\\system.data.sqlite.core.1.0.113.7.nupkg.sha512"
+  ],
+  "logs": []
+}

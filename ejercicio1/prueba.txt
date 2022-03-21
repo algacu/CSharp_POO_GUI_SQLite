@@ -1,0 +1,14 @@
+
+ Paquete Premium: VLC1
+ Destino: València
+ Descripción: Playa y gastronomía valenciana
+ Precio base: 300
+
+	 Código: CEP
+ 	 Desripción: Comida en el Palmar
+ 	 Precio: 50
+	 Código: PCB
+ 	 Desripción: Paseo en barca por la Albufera
+ 	 Precio: 10
+ Precio total: 360
+ 

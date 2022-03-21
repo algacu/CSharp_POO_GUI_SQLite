@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3N0aPwZ0MCnnvFeBHVr8/IgTKM3lj2j8x99xN7Cr8VO1JJd2HU9fqVB2jPulGtdHMoIRhgA4be57ZfEtv3k1rA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agarc\\Downloads\\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\\ejercicio2\\ejercicio2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agarc\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.113.2\\stub.system.data.sqlite.core.netstandard.1.0.113.2.nupkg.sha512",
+    "C:\\Users\\agarc\\.nuget\\packages\\system.data.sqlite.core\\1.0.113.7\\system.data.sqlite.core.1.0.113.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,79 @@
+C:\Users\agarc\Downloads\base\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.exe
+C:\Users\agarc\Downloads\base\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.deps.json
+C:\Users\agarc\Downloads\base\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.runtimeconfig.json
+C:\Users\agarc\Downloads\base\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.runtimeconfig.dev.json
+C:\Users\agarc\Downloads\base\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.dll
+C:\Users\agarc\Downloads\base\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.pdb
+C:\Users\agarc\Downloads\base\ejercicio3\bin\Debug\netcoreapp3.1\AtkSharp.dll
+C:\Users\agarc\Downloads\base\ejercicio3\bin\Debug\netcoreapp3.1\CairoSharp.dll
+C:\Users\agarc\Downloads\base\ejercicio3\bin\Debug\netcoreapp3.1\GdkSharp.dll
+C:\Users\agarc\Downloads\base\ejercicio3\bin\Debug\netcoreapp3.1\GioSharp.dll
+C:\Users\agarc\Downloads\base\ejercicio3\bin\Debug\netcoreapp3.1\GLibSharp.dll
+C:\Users\agarc\Downloads\base\ejercicio3\bin\Debug\netcoreapp3.1\GtkSharp.dll
+C:\Users\agarc\Downloads\base\ejercicio3\bin\Debug\netcoreapp3.1\PangoSharp.dll
+C:\Users\agarc\Downloads\base\ejercicio3\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\agarc\Downloads\base\ejercicio3\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\agarc\Downloads\base\ejercicio3\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\agarc\Downloads\base\ejercicio3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\agarc\Downloads\base\ejercicio3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\agarc\Downloads\base\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.csprojAssemblyReference.cache
+C:\Users\agarc\Downloads\base\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.AssemblyInfoInputs.cache
+C:\Users\agarc\Downloads\base\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.AssemblyInfo.cs
+C:\Users\agarc\Downloads\base\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\agarc\Downloads\base\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.csproj.CopyComplete
+C:\Users\agarc\Downloads\base\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.dll
+C:\Users\agarc\Downloads\base\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.pdb
+C:\Users\agarc\Downloads\base\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.genruntimeconfig.cache
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.exe
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.deps.json
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.runtimeconfig.json
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.runtimeconfig.dev.json
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.pdb
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\bin\Debug\netcoreapp3.1\AtkSharp.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\bin\Debug\netcoreapp3.1\CairoSharp.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\bin\Debug\netcoreapp3.1\GdkSharp.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\bin\Debug\netcoreapp3.1\GioSharp.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\bin\Debug\netcoreapp3.1\GLibSharp.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\bin\Debug\netcoreapp3.1\GtkSharp.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\bin\Debug\netcoreapp3.1\PangoSharp.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.csprojAssemblyReference.cache
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.AssemblyInfoInputs.cache
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.AssemblyInfo.cs
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.csproj.CopyComplete
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.pdb
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.genruntimeconfig.cache
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.exe
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.deps.json
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.runtimeconfig.json
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.runtimeconfig.dev.json
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.dll
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.pdb
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\bin\Debug\netcoreapp3.1\AtkSharp.dll
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\bin\Debug\netcoreapp3.1\CairoSharp.dll
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\bin\Debug\netcoreapp3.1\GdkSharp.dll
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\bin\Debug\netcoreapp3.1\GioSharp.dll
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\bin\Debug\netcoreapp3.1\GLibSharp.dll
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\bin\Debug\netcoreapp3.1\GtkSharp.dll
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\bin\Debug\netcoreapp3.1\PangoSharp.dll
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.csproj.AssemblyReference.cache
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.AssemblyInfoInputs.cache
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.AssemblyInfo.cs
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.csproj.CopyComplete
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.dll
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.pdb
+C:\Users\agarc\Desktop\DAM\PROG\Examen Programacion mayo 21 - AGC\Examen Programacion mayo 21 - AGC\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.genruntimeconfig.cache

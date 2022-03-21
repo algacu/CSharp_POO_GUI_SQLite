@@ -1,0 +1,14 @@
+
+ Paquete Premium: VAL2
+ Destino: València
+ Descripción: Gastronomía y playa en València. 4 días.
+ Precio base: 250
+
+	 Código: PBALB1
+ 	 Desripción: Comida y paseo en barca por l'Albufera
+ 	 Precio: 20
+	 Código: PCVLC1
+ 	 Desripción: Pension Completa en Hotel Balneario Las Arenas.
+ 	 Precio: 200
+ Precio total: 470
+ 

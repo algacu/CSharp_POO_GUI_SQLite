@@ -1,0 +1,14 @@
+
+ Paquete Premium: BEN1
+ Destino: Benidorm
+ Descripción: Benidorm, playa y Montaña
+ Precio base: 350
+
+	 Código: ETM
+ 	 Desripción: Entrada a Terra Mítica
+ 	 Precio: 20
+	 Código: VPA
+ 	 Desripción: Visita a la playa del Albir
+ 	 Precio: 10
+ Precio total: 380
+ 

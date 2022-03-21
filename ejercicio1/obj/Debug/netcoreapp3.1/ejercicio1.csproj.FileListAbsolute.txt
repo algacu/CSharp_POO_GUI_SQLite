@@ -1,0 +1,26 @@
+C:\Users\agarc\Downloads\base\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.exe
+C:\Users\agarc\Downloads\base\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.deps.json
+C:\Users\agarc\Downloads\base\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.runtimeconfig.json
+C:\Users\agarc\Downloads\base\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.runtimeconfig.dev.json
+C:\Users\agarc\Downloads\base\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.dll
+C:\Users\agarc\Downloads\base\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.pdb
+C:\Users\agarc\Downloads\base\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.csprojAssemblyReference.cache
+C:\Users\agarc\Downloads\base\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\agarc\Downloads\base\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.AssemblyInfo.cs
+C:\Users\agarc\Downloads\base\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\agarc\Downloads\base\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.dll
+C:\Users\agarc\Downloads\base\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.pdb
+C:\Users\agarc\Downloads\base\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.genruntimeconfig.cache
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.exe
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.deps.json
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.runtimeconfig.json
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.runtimeconfig.dev.json
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.pdb
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.csprojAssemblyReference.cache
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.AssemblyInfo.cs
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.dll
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.pdb
+C:\Users\agarc\Downloads\Examen Programacion mayo 21 - Alejandro Garcia Cuesta\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.genruntimeconfig.cache
