@@ -4,4 +4,4 @@ Visualización y guardado paquetes de viajes mediante el uso de programación or
 
 Lenguaje de programación: C# (entorno .NET)
 Librerías: GUI Glade (GTK), SQLite.
-Herramientas / IDE: Visual Studio 2019.
+Herramientas / IDE: Visual Studio 2019, Glade.
